@@ -2,25 +2,19 @@
   "pensamentos": [
     {
       "id": 1,
-      "conteudo": "I love you Angular",
+      "conteudo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sagittis dui et urna malesuada ultricies. Proin eleifend, orci a porta feugiat, eros urna varius massa, eu faucibus mi nibh non sem.",
       "autoria": "Pablo Gomes",
       "modelo": "modelo3"
     },
     {
-      "id": 2,
-      "conteudo": "Guarde trechos de músicas, citações de livros, pensamentos e suas melhores ideias. Guarde trechos de músicas, citações de livros, pensamentos e suas melhores ideias. Guarde trechos de músicas, citações de livros, pensamentos e suas melhores ideias. Guarde trechos de músicas, citações de livros, pensamentos e suas melhores ideias.",
-      "autoria": "Pablo Gomes",
-      "modelo": "modelo2"
-    },
-    {
       "id": 3,
-      "conteudo": "Guarde seu sorriso só pra mim.",
+      "conteudo": "Aqui uma aplicação desenvolvida em Angular",
       "autoria": "Pablo Gomes",
       "modelo": "modelo1"
     },
     {
       "conteudo": "Pensamento de teste",
-      "autoria": "Devsdf",
+      "autoria": "Teste",
       "modelo": "modelo1",
       "id": 4
     },
@@ -29,6 +23,12 @@
       "autoria": "Pablo",
       "modelo": "modelo3",
       "id": 5
+    },
+    {
+      "conteudo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sagittis dui et urna malesuada ultricies.",
+      "autoria": "Pablo",
+      "modelo": "modelo1",
+      "id": 6
     }
   ]
 }

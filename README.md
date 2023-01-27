@@ -1,5 +1,18 @@
 # Memoteca
 
+<p align="center">
+
+## App desenvolvido durante o curso de Angular 14: aplique os conceitos e desenvolva seu primeiro CRUD
+
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/47211806/215089328-0ac11bf7-374a-430a-9536-328574b79c98.gif"/>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/47211806/215086861-e3f5e2da-b333-4458-bac5-e2fab7f9735f.png"/>
+</p>
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.5.
 
 ## Development server
