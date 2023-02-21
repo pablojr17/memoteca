@@ -2,33 +2,38 @@
   "pensamentos": [
     {
       "id": 1,
-      "conteudo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sagittis dui et urna malesuada ultricies. Proin eleifend, orci a porta feugiat, eros urna varius massa, eu faucibus mi nibh non sem.",
-      "autoria": "Pablo Gomes",
-      "modelo": "modelo3"
+      "conteudo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "autoria": "Pablo 2",
+      "modelo": "modelo2",
+      "favorito": false
     },
     {
       "id": 3,
       "conteudo": "Aqui uma aplicação desenvolvida em Angular",
       "autoria": "Pablo Gomes",
-      "modelo": "modelo1"
-    },
-    {
-      "conteudo": "Pensamento de teste",
-      "autoria": "Teste",
       "modelo": "modelo1",
-      "id": 4
+      "favorito": true
     },
     {
-      "conteudo": "Aprendendo Angular na alura",
+      "id": 5,
+      "conteudo": "Aprendendo Angular na alurad",
       "autoria": "Pablo",
       "modelo": "modelo3",
-      "id": 5
+      "favorito": true
     },
     {
-      "conteudo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sagittis dui et urna malesuada ultricies.",
-      "autoria": "Pablo",
+      "conteudo": "A vida e uma caixa preta nunca saberemos o seu real significado.⁠",
+      "autoria": "aleatorio",
       "modelo": "modelo1",
+      "favorito": false,
       "id": 6
+    },
+    {
+      "conteudo": "Não tive filhos, não transmiti a nenhuma criatura o legado de nossa miséria.",
+      "autoria": "machado de assis",
+      "modelo": "modelo3",
+      "favorito": false,
+      "id": 7
     }
   ]
 }
